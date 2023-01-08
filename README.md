@@ -1,10 +1,8 @@
 `#php` `#login` `#php_login` `#json` `#bootstrap`
 
 # Simple PHP Login with Bootstrap and JSON
-
 <p>
-![login](https://user-images.githubusercontent.com/103459716/211215888-672fd035-8b01-4ae8-b9af-fd6c9884edd9.png)
-
+  <img src="https://user-images.githubusercontent.com/103459716/211215888-672fd035-8b01-4ae8-b9af-fd6c9884edd9.png" alt="login" />
 </p>
 
 ## Repository
