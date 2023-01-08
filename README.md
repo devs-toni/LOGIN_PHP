@@ -1,4 +1,4 @@
-`#php` `#login` `#php_login` `#login_json`
+`#php` `#login` `#php_login` `#json` `#bootstrap`
 
 # Simple PHP Login with Bootstrap and JSON
 
@@ -23,8 +23,15 @@
   The design is easily customizable as it is made with Bootstrap. 
 </p>
 
+## Users
+<p>User: admin</p>
+<p>Password: 1234</p>
+
+<p>User: user</p>
+<p>Password: 123</p>
+
 ## Technologies used
-\* PHP
-\* Bootstrap
-\* JSON
+<p>\* PHP</p>
+<p>\* Bootstrap</p>
+<p>\* JSON</p>
 
